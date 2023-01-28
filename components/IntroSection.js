@@ -23,7 +23,7 @@ const IntroSection = () => {
           </div>
         </div>
         <div className="sm:flex items-center hidden">
-          <img className="rounded-lg" alt="Discord" src="/discord.webp" />
+          <img className="rounded-lg" alt="Discord" src="https://media.discordapp.net/attachments/1068177333313339462/1068799613307473950/R.jpg?width=938&height=586" />
         </div>
       </div>
     </section>
