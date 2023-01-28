@@ -21,7 +21,7 @@ const config = {
       name: "Music",
       description:
         "Music play from name/url and play from app like youtube.",
-      logo: <SiProbot className="h-10 w-10" />,
+      logo: <Music className="h-10 w-10" />,
     },
     {
       name: "Automation",
